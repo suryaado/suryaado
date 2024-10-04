@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @suryaado 'Surya Kumar Mishra'
 - 👀 I’m interested in learning and exploring new techs.
-- 🌱 I’m currently learning AWS and Azure
+- 🌱 I’m currently learning AI with Cloud.
 - 💞️ I’m looking to collaborate on freelance Project
 - 📫 How to reach me @email
 - 😄 Pronouns: ...
